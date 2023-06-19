@@ -1,0 +1,9 @@
+
+.h4 {
+    font-weight: bold !important;
+    font-style: italic !important;
+}
+
+.my-element {
+    --animate-duration: 0.8s;
+  }
