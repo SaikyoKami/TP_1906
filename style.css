@@ -1,4 +1,3 @@
-
 .h4 {
     font-weight: bold !important;
     font-style: italic !important;
@@ -6,4 +5,20 @@
 
 .my-element {
     --animate-duration: 0.8s;
+  }
+
+  .cv-container {
+    max-width: 800px; /* ajustez cette valeur en fonction de vos besoins */
+    min-height: 1200px;
+    margin: 0 auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .cv-col {
+    max-width: 800px; /* ajustez cette valeur en fonction de vos besoins */
+    min-height: 1200px;
+  }
+
+  html{
+    padding: 40px;
   }
